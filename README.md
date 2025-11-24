@@ -39,7 +39,6 @@ media="screen" />
 </nav>
 ```
 
-# Tampilan
 Buat file baru dengan nama footer.php
 ```PHP
 <footer>
@@ -49,8 +48,6 @@ Buat file baru dengan nama footer.php
 </body>
 </html>
 ```
-
-# Tampilan
 
 Buat file baru dengan nama home.php
 ```PHP
@@ -62,8 +59,6 @@ Buat file baru dengan nama home.php
 <?php require('footer.php'); ?>
 ```
 
-# Tampilan
-
 Buat file baru dengan nama about.php
 ```PHP
 <?php require('header.php'); ?>
@@ -74,7 +69,8 @@ Buat file baru dengan nama about.php
 <?php require('footer.php'); ?>
 ```
 
-# Tampilan
+# Tampilan Web
+<img width="545" height="277" alt="image" src="https://github.com/user-attachments/assets/f213ddc5-f587-4a74-8804-494793c4d7f8" />
 
 # Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database,
