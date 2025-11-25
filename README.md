@@ -82,3 +82,13 @@ Gunakan struktur direktory seperti berikut:
 Routing menggunakan url: index.php?page=user/list
 Opsional: Gunakan htaccess agar url lebih SEO Friendly.
 Contoh URL: (base-domain)/user/list
+
+# Jawab:
+
+<img width="1234" height="268" alt="image" src="https://github.com/user-attachments/assets/68a611b7-84ec-4daa-a9ce-b0a880daceda" />
+<img width="397" height="402" alt="image" src="https://github.com/user-attachments/assets/8457c161-6fb9-4830-9096-f56d8b07f77c" />
+<img width="1252" height="290" alt="image" src="https://github.com/user-attachments/assets/f2800972-5bed-44fc-990a-4a3b0dda3f52" />
+<img width="431" height="382" alt="image" src="https://github.com/user-attachments/assets/78bfd33d-36b7-441d-a67e-a0e5cc71b896" />
+<img width="1161" height="266" alt="image" src="https://github.com/user-attachments/assets/f4ac69f2-d011-481b-a796-2782759109d1" />
+<img width="1131" height="274" alt="image" src="https://github.com/user-attachments/assets/d354356d-e632-4c66-abf2-a2d75ead591c" />
+<img width="1200" height="242" alt="image" src="https://github.com/user-attachments/assets/55af5245-847c-454d-a1ee-1f12f465e7d0" />
